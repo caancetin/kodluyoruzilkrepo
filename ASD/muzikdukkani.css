@@ -1,0 +1,63 @@
+.h1 {
+    color: palevioletred;
+    position: relative;
+    left: 825px;
+}
+a {
+    font-style: unset;
+    color: burlywood  ;
+    margin: 10px;
+
+}
+
+.a {
+
+    color: burlywood ;
+    margin: 10px;
+    position: relative;
+    left: 800px;
+
+}
+
+ol {
+
+    position: relative;
+    left: 680px;
+}
+
+h2 {
+    font-style: initial;
+    color: blueviolet;
+    position: relative;
+    left: 885px;
+} 
+
+h3 {
+    font-style: oblique;
+    color: sandybrown;
+}
+
+.h3a {
+
+    position: relative;
+    left: 800px;
+}
+
+ul {
+
+    position: relative;
+    left: 875px;
+}
+
+p {
+
+    font-style:italic ;
+}
+
+.ph {
+
+    position: relative;
+    left: 400px;
+}
+
+
