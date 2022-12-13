@@ -1,0 +1,130 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+html {
+    height: 1063px;
+    width: 1153px;
+    overflow: hidden;
+}
+body {
+    height: 1063px;
+    width: 1153px;
+}
+
+.container {
+    display: flex;
+    height: 1063px;
+    width: 1153px;
+    justify-content: space-between;
+    position: fixed;
+}
+/*NAVBAR*/
+nav {
+    display: flex;
+}
+
+h3 {
+    position: relative;
+    height: 25px;
+    width: 133px;
+    width: 100%;
+    font-family: 'Inconsolata', monospace;
+    font-size: 24px;
+    line-height: 24px;
+    color: #333333;
+    margin-left: 77px;
+    margin-top: 40px;
+}
+/*NAVBAR*/
+/*MAİN*/
+
+main {
+}
+
+img {
+    position: absolute;
+    height: 414px;
+    width: 539px;
+    left: 77px;
+    top: 265px;
+    border-radius: 20px;
+}
+/*MAİN*/
+
+/*SECTİON*/
+
+section {
+    display: flex;
+}
+h1 {
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 900px;
+    top: 265px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    color: #333333;
+}
+.p1 {
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 900px;
+    top: 491px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    color: #4F4F4F;
+}
+input {
+    position: absolute;
+    width: 130px;
+    height: 21px;
+    left: 900px;
+    top: 687px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 900px;
+    top: 663px;
+    background: #333333;
+}
+/*SECTİON*/
+
+/*FOOTER*/
+footer {
+   
+}
+.p2 {
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 800px;
+    top: 900px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #000000;
+}
+/*FOOTER*/
