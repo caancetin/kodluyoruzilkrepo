@@ -1,0 +1,149 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: #FFFFFF;
+}
+
+.container {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    
+    
+}
+
+.material-symbols-outlined {
+    margin-left: 10px;
+    margin-top: 10px;
+    color: orange;
+}
+
+/*---------------Main---------------*/
+h2 {
+    position: relative;
+    width: 587px;
+    height: 64px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    margin-top: 50px;
+}
+
+
+
+.upside-p-1 {
+    position: relative;
+    width: 592px;
+    height: 51px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 14px;
+    left: 35px;
+    bottom: 27px;
+}
+
+img {
+    position: relative;
+    width: 969px;
+    height: 470px;
+    border-radius: 12px;
+}
+
+
+
+
+/*---------------Main---------------*/
+/*---------------Section---------------*/
+section {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    right: 230px;
+    margin-top: 50px;
+    
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 140px;
+    height: 260px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    left: 970px;
+    margin-top: 50px;
+    
+}
+
+.card-info {
+    position: relative;
+    width: 100px;
+    height: 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    left: 38px;
+    bottom: 25px;
+    color: #BDBDBD;
+    
+}
+.card-text {
+    position: relative;
+    width: 100px;
+    height: 17px;
+    left: 38px;
+    bottom: 25px;  
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.article-info {
+    position: relative;
+    left: 35px;
+    bottom: 25px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color: #000000;
+}
+
+h3 {
+    font-family: 'Playfair Display';
+    margin-top: 32px;
+    margin-bottom: 32px;
+    color: #000000;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.italic {
+    font-style: italic;
+}
+/*---------------Section---------------*/
+/*----------------Footer---------------*/
+footer {
+    color: #828282;
+}
+
+/*----------------Footer---------------*/
