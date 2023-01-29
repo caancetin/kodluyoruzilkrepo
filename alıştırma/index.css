@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #E9ECEF;
+}
+
+a {
+    margin: 5px;
+    color: gainsboro;
+    
+}
+
+.a-1 {
+    color: red;
+    font-size:x-large;
+    margin: 5px;
+}
+
+
+nav {
+    text-align: start;
+    background-color: gray;
+}
+
+
+
